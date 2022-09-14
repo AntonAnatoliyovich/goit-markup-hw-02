@@ -1,12 +1,12 @@
-            /* -------body------- */
+/* -------body------- */
 
 body {
   font-family: "roboto";
 }
 
-            /* -------body------- */
+/* -------body------- */
 
-            /* -------header------- */
+/* -------header------- */
 
 .list {
   list-style: none;
@@ -53,10 +53,47 @@ body {
   color: #757575;
 }
 
-            /* -------header------- */
+/* -------header------- */
 
-            /* -------main------- */
+/* -------main------- */
 
+.hero {
+}
+.hero-section {
+}
+.hero-title {
+}
+.hero-button {
+}
+.hero-second {
+}
+.hero-title-second {
+}
+.hero-list {
+}
+.hero-item {
+}
+.hero-text {
+}
+.hero-third {
+}
+.hero-title-third {
+}
+.hero-list-third {
+}
+.hero-item-third {
+}
+.hero-fourth {
+}
+.hero-title-fourth {
+}
+.hero-list-fourth {
+}
+.hero-item-fourth {
+}
+.hero-title-name {
+}
+.hero-text-speciality {
+}
 
-
-            /* -------main------- */
+/* -------main------- */
