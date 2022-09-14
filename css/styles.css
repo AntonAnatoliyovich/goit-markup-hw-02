@@ -63,17 +63,38 @@ body {
 }
 .hero-title {
 }
+
 .hero-button {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.88;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.06em;
+  color: #ffffff;
+  background: #2196f3;
 }
 .hero-second {
 }
 .hero-title-second {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #212121;
 }
 .hero-list {
 }
 .hero-item {
 }
 .hero-text {
+font-weight: 400;
+font-size: 14px;
+line-height: 1.71;
+letter-spacing: 0.03em;
+color: #757575;
 }
 .hero-third {
 }
