@@ -75,8 +75,10 @@ body {
   color: #ffffff;
   background: #2196f3;
 }
+
 .hero-second {
 }
+
 .hero-title-second {
   font-weight: 700;
   font-size: 14px;
@@ -85,10 +87,12 @@ body {
   text-transform: uppercase;
   color: #212121;
 }
+
 .hero-list {
 }
 .hero-item {
 }
+
 .hero-text {
 font-weight: 400;
 font-size: 14px;
@@ -96,25 +100,56 @@ line-height: 1.71;
 letter-spacing: 0.03em;
 color: #757575;
 }
+
 .hero-third {
 }
+
 .hero-title-third {
+font-weight: 700;
+font-size: 36px;
+line-height: 1.16;
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;
 }
+
 .hero-list-third {
 }
 .hero-item-third {
 }
 .hero-fourth {
 }
+
 .hero-title-fourth {
+font-weight: 700;
+font-size: 36px;
+line-height: 1.16;
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;
 }
+
 .hero-list-fourth {
 }
 .hero-item-fourth {
 }
+
 .hero-title-name {
+    font-weight: 500;
+font-size: 16px;
+line-height: 1.19;
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;
 }
+
 .hero-text-speciality {
+    font-weight: 400;
+font-size: 16px;
+line-height: 1.19;
+text-align: center;
+letter-spacing: 0.03em;
+color: #757575;
 }
 
 /* -------main------- */
