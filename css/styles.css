@@ -1,9 +1,47 @@
-/* колір заголовків #212121 */
-/* колір лого #000000 */
-/* колір тексту #757575 */
-/* колір #FFFFFF */
-/* акцент #2196F3 */
+/* -------body------- */
 
 body {
   font-family: "roboto";
 }
+
+/* -------body------- */
+
+/* -------header------- */
+
+.list {
+    list-style: none;
+}
+
+.header {
+}
+
+.header-logo {
+}
+
+.header-list {
+}
+.header-item {
+}
+.header-link {
+}
+.header-list-second {
+}
+.header-item-second {
+}
+.header-mail {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #2196f3;
+}
+
+.header-tel {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  color: #757575;
+}
+
+/* -------header------- */
