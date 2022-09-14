@@ -21,6 +21,26 @@ body {
   color: #2196f3;
 }
 
+.header-web {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+}
+
+.header-studio {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    color: #000000;
+}
+
 .header-link {
   font-weight: 500;
   font-size: 14px;
@@ -57,13 +77,6 @@ body {
 
 /* -------main------- */
 
-.hero {
-}
-.hero-section {
-}
-.hero-title {
-}
-
 .hero-button {
   font-weight: 700;
   font-size: 16px;
@@ -76,9 +89,6 @@ body {
   background: #2196f3;
 }
 
-.hero-second {
-}
-
 .hero-title-second {
   font-weight: 700;
   font-size: 14px;
@@ -88,68 +98,89 @@ body {
   color: #212121;
 }
 
-.hero-list {
-}
-.hero-item {
-}
-
 .hero-text {
-font-weight: 400;
-font-size: 14px;
-line-height: 1.71;
-letter-spacing: 0.03em;
-color: #757575;
-}
-
-.hero-third {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: #757575;
 }
 
 .hero-title-third {
-font-weight: 700;
-font-size: 36px;
-line-height: 1.16;
-text-align: center;
-letter-spacing: 0.03em;
-color: #212121;
-}
-
-.hero-list-third {
-}
-.hero-item-third {
-}
-.hero-fourth {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.16;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
 }
 
 .hero-title-fourth {
-font-weight: 700;
-font-size: 36px;
-line-height: 1.16;
-text-align: center;
-letter-spacing: 0.03em;
-color: #212121;
-}
-
-.hero-list-fourth {
-}
-.hero-item-fourth {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.16;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
 }
 
 .hero-title-name {
-    font-weight: 500;
-font-size: 16px;
-line-height: 1.19;
-text-align: center;
-letter-spacing: 0.03em;
-color: #212121;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.19;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
 }
 
 .hero-text-speciality {
-    font-weight: 400;
-font-size: 16px;
-line-height: 1.19;
-text-align: center;
-letter-spacing: 0.03em;
-color: #757575;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.19;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #757575;
 }
 
 /* -------main------- */
+
+/* -------footer------- */
+
+.footer {
+  background-color: #757575;
+}
+.footer-logo {
+}
+
+.footer-web {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  color: #2196f3;
+}
+
+.footer-studio {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
+
+.footer-map {
+}
+.footer-list {
+}
+.footer-item {
+}
+.footer-mail {
+}
+.footer-tel {
+}
+
+/* -------footer------- */
