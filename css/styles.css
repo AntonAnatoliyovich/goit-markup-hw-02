@@ -106,6 +106,7 @@ body {
   letter-spacing: 0.06em;
   color: #ffffff;
   background: #2196f3;
+  cursor: pointer;
 }
 
 .hero-title-second {
@@ -248,6 +249,7 @@ body {
   letter-spacing: 0.03em;
   color: #212121;
   background: #f5f4fa;
+  cursor: pointer;
 }
 
 .main-title {
