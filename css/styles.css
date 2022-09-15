@@ -7,21 +7,27 @@ body {
   color: #212121;
 }
 
+:root {
+  --accent-color: #2196f3;
+  --main-color: #212121;
+  --second-color: #757575;
+}
+
 /* -------body------- */
 
 /* -------header------- */
 
 .list {
-  list-style: none;
+ list-style: none;
 }
 
 .link {
-  text-decoration: none;
+ text-decoration: none;
 }
 
 .header-link:hover,
 .header-link:focus {
-  color: #2196f3;
+ color: var(--accent-color);
 }
 
 .header-web {
@@ -31,7 +37,7 @@ body {
   font-size: 26px;
   line-height: 1.19;
   letter-spacing: 0.03em;
-  color: #2196f3;
+  color: var(--accent-color);
 }
 
 .header-studio {
@@ -49,12 +55,12 @@ body {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
-  color: #212121;
+  color: var(--main-color);
 }
 
 .header-mail:hover,
 .header-mail:focus {
-  color: #2196f3;
+  color: var(--accent-color);
 }
 
 .header-mail {
@@ -62,12 +68,12 @@ body {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
-  color: #757575;
+  color: var(--second-color);
 }
 
 .header-tel:hover,
 .header-tel:focus {
-  color: #2196f3;
+  color: var(--accent-color);
 }
 
 .header-tel {
@@ -75,7 +81,7 @@ body {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
-  color: #757575;
+  color: var(--second-color);
 }
 
 /* -------header------- */
@@ -128,14 +134,14 @@ body {
   line-height: 1.14;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #212121;
+  color: var(--main-color);
 }
 
 .hero-text {
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
-  color: #757575;
+  color: var(--second-color);
 }
 
 .hero-title-third {
@@ -144,7 +150,7 @@ body {
   line-height: 1.16;
   text-align: center;
   letter-spacing: 0.03em;
-  color: #212121;
+  color: var(--main-color);
 }
 
 .hero-title-fourth {
@@ -153,7 +159,7 @@ body {
   line-height: 1.16;
   text-align: center;
   letter-spacing: 0.03em;
-  color: #212121;
+  color: var(--main-color);
 }
 
 .hero-title-name {
@@ -162,7 +168,7 @@ body {
   line-height: 1.19;
   text-align: center;
   letter-spacing: 0.03em;
-  color: #212121;
+  color: var(--main-color);
 }
 
 .hero-text-speciality {
@@ -170,7 +176,7 @@ body {
   line-height: 1.19;
   text-align: center;
   letter-spacing: 0.03em;
-  color: #757575;
+  color: var(--second-color);
 }
 
 /* -------main------- */
@@ -188,7 +194,7 @@ body {
   font-size: 26px;
   line-height: 1.19;
   letter-spacing: 0.03em;
-  color: #2196f3;
+  color: var(--accent-color);
 }
 
 .footer-studio {
@@ -203,7 +209,7 @@ body {
 
 .footer-map:hover,
 .footer-map:focus {
-  color: #2196f3;
+  color: var(--accent-color);
 }
 
 .footer-map {
@@ -216,7 +222,7 @@ body {
 
 .footer-mail:hover,
 .footer-mail:focus {
-  color: #2196f3;
+  color: var(--accent-color);
 }
 
 .footer-mail {
@@ -229,7 +235,7 @@ body {
 
 .footer-tel:hover,
 .footer-tel:focus {
-  color: #2196f3;
+  color: var(--accent-color);
 }
 
 .footer-tel {
@@ -270,14 +276,14 @@ body {
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
-  color: #212121;
+  color: var(--main-color);
 }
 
 .main-text {
   font-size: 16px;
   line-height: 1.88;
   letter-spacing: 0.03em;
-  color: #757575;
+  color: var(--second-color);
 }
 
 /* -------main------- */
