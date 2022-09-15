@@ -13,6 +13,16 @@ body {
   --second-color: #757575;
 }
 
+.web {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  color: var(--accent-color);
+}
+
 /* -------body------- */
 
 /* -------header------- */
@@ -28,16 +38,6 @@ body {
 .header-link:hover,
 .header-link:focus {
  color: var(--accent-color);
-}
-
-.header-web {
-  font-family: "Raleway";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 26px;
-  line-height: 1.19;
-  letter-spacing: 0.03em;
-  color: var(--accent-color);
 }
 
 .header-studio {
@@ -185,16 +185,6 @@ body {
 
 .footer {
   background-color: #757575;
-}
-
-.footer-web {
-  font-family: "Raleway";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 26px;
-  line-height: 1.19;
-  letter-spacing: 0.03em;
-  color: var(--accent-color);
 }
 
 .footer-studio {
