@@ -37,16 +37,16 @@ body {
 /* -------header------- */
 
 .list {
-  list-style: none;
+ list-style: none;
 }
 
 .link {
-  text-decoration: none;
+ text-decoration: none;
 }
 
 .header-link:hover,
 .header-link:focus {
-  color: var(--accent-color);
+ color: var(--accent-color);
 }
 
 .header-studio {
